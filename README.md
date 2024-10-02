@@ -6,4 +6,4 @@ Then make the "install.sh" file executable "chmod +x install.sh"
 
 Then run the "install.sh" file "./install.sh"
 
-# ENJOY!
+ENJOY!
