@@ -1,0 +1,4 @@
+2024-09-28 09:17:00.209 [info] update#setState disabled
+2024-09-28 09:17:00.210 [info] update#ctor - updates are disabled as there is no update URL
+2024-09-28 10:32:25.921 [info] Extension host with pid 3593 exited with code: 0, signal: unknown.
+2024-09-28 10:32:25.966 [error] Blocked vscode-file request vscode-file://vscode-app/usr/lib/code/out/vs/base/worker/workerMain.js#TextEditorWorker

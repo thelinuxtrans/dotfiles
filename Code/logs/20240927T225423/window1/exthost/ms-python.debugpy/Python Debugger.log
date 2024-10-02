@@ -1,0 +1,22 @@
+2024-09-27 23:05:38.153 [info] Name: Python Debugger
+2024-09-27 23:05:38.153 [info] Module: debugpy
+2024-09-27 23:05:49.161 [info] No workspace folder found
+2024-09-27 23:05:49.174 [info] Resolving launch configuration with substituted variables
+2024-09-27 23:05:49.174 [info] No workspace folder found
+2024-09-27 23:05:49.204 [info] DAP Server launched with command: /bin/python /home/soup/.vscode/extensions/ms-python.debugpy-2024.11.0-dev-linux-x64/bundled/libs/debugpy/adapter
+2024-09-27 23:05:49.338 [info] Received 'debugpySockets' event from debugpy.
+2024-09-27 23:05:49.341 [info] Received 'debugpySockets' event from debugpy.
+2024-09-27 23:05:49.342 [info] Received 'debugpySockets' event from debugpy.
+2024-09-27 23:05:51.101 [info] Received 'debugpySockets' event from debugpy.
+2024-09-27 23:05:55.742 [info] Received 'debugpySockets' event from debugpy.
+2024-09-27 23:05:55.743 [info] Received 'debugpySockets' event from debugpy.
+2024-09-27 23:06:37.928 [info] No workspace folder found
+2024-09-27 23:06:37.937 [info] Resolving launch configuration with substituted variables
+2024-09-27 23:06:37.937 [info] No workspace folder found
+2024-09-27 23:06:37.939 [info] DAP Server launched with command: /bin/python /home/soup/.vscode/extensions/ms-python.debugpy-2024.11.0-dev-linux-x64/bundled/libs/debugpy/adapter
+2024-09-27 23:06:38.017 [info] Received 'debugpySockets' event from debugpy.
+2024-09-27 23:06:38.018 [info] Received 'debugpySockets' event from debugpy.
+2024-09-27 23:06:38.018 [info] Received 'debugpySockets' event from debugpy.
+2024-09-27 23:06:38.469 [info] Received 'debugpySockets' event from debugpy.
+2024-09-27 23:06:41.904 [info] Received 'debugpySockets' event from debugpy.
+2024-09-27 23:06:41.905 [info] Received 'debugpySockets' event from debugpy.

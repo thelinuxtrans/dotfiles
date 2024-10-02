@@ -1,0 +1,7 @@
+2024/09/28-11:41:15.122 71b2 Reusing MANIFEST /home/soup/.config/discord/WebStorage/1/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/09/28-11:41:15.122 71b2 Recovering log #4
+2024/09/28-11:41:15.122 71b2 Reusing old log /home/soup/.config/discord/WebStorage/1/IndexedDB/indexeddb.leveldb/000004.log 
+2024/09/28-11:41:15.203 71fc Level-0 table #8: started
+2024/09/28-11:41:15.208 71fc Level-0 table #8: 2394 bytes OK
+2024/09/28-11:41:15.213 71fc Delete type=0 #4
+2024/09/28-11:41:15.214 71b2 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

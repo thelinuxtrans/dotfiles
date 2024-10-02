@@ -1,0 +1,40 @@
+2024-09-27 23:05:38.128 [info] Starting Environment refresh
+2024-09-27 23:05:38.128 [info] Searching for interpreters in posix paths locator
+2024-09-27 23:05:38.128 [info] Searching for pyenv environments
+2024-09-27 23:05:38.128 [info] Searching for conda environments
+2024-09-27 23:05:38.128 [info] Searching for global virtual environments
+2024-09-27 23:05:38.128 [info] Searching for custom virtual environments
+2024-09-27 23:05:38.128 [info] pyenv is not installed
+2024-09-27 23:05:38.128 [info] Finished searching for pyenv environments: 9 milliseconds
+2024-09-27 23:05:38.128 [info] Finished searching for custom virtual envs: 8 milliseconds
+2024-09-27 23:05:38.128 [info] > conda info --json
+2024-09-27 23:05:38.128 [info] Finished searching for global virtual envs: 62 milliseconds
+2024-09-27 23:05:38.133 [info] Found: /bin/python --> /bin/python3.12
+2024-09-27 23:05:38.134 [info] Found: /bin/python3 --> /bin/python3.12
+2024-09-27 23:05:38.134 [info] Found: /bin/python3.12 --> /bin/python3.12
+2024-09-27 23:05:38.155 [info] Found: /sbin/python --> /sbin/python3.12
+2024-09-27 23:05:38.155 [info] Found: /sbin/python3 --> /sbin/python3.12
+2024-09-27 23:05:38.155 [info] Found: /sbin/python3.12 --> /sbin/python3.12
+2024-09-27 23:05:38.159 [info] Found: /usr/bin/python --> /usr/bin/python3.12
+2024-09-27 23:05:38.159 [info] Found: /usr/bin/python3 --> /usr/bin/python3.12
+2024-09-27 23:05:38.159 [info] Found: /usr/bin/python3.12 --> /usr/bin/python3.12
+2024-09-27 23:05:38.178 [info] Found: /usr/sbin/python --> /usr/sbin/python3.12
+2024-09-27 23:05:38.178 [info] Found: /usr/sbin/python3 --> /usr/sbin/python3.12
+2024-09-27 23:05:38.178 [info] Found: /usr/sbin/python3.12 --> /usr/sbin/python3.12
+2024-09-27 23:05:38.191 [info] > /bin/python -I ~/.vscode/extensions/ms-python.python-2024.14.1-universal/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.14.1-universal/python_files/interpreterInfo.py
+2024-09-27 23:05:38.200 [info] > /sbin/python -I ~/.vscode/extensions/ms-python.python-2024.14.1-universal/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.14.1-universal/python_files/interpreterInfo.py
+2024-09-27 23:05:38.203 [info] Finished searching for interpreters in posix paths locator: 147 milliseconds
+2024-09-27 23:05:38.207 [info] Environments refresh paths discovered (event): 152 milliseconds
+2024-09-27 23:05:38.207 [info] Environments refresh paths discovered: 152 milliseconds
+2024-09-27 23:05:38.221 [info] > /usr/bin/python -I ~/.vscode/extensions/ms-python.python-2024.14.1-universal/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.14.1-universal/python_files/interpreterInfo.py
+2024-09-27 23:05:38.234 [info] > /usr/sbin/python -I ~/.vscode/extensions/ms-python.python-2024.14.1-universal/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.14.1-universal/python_files/interpreterInfo.py
+2024-09-27 23:05:38.261 [info] Environments refresh finished (event): 206 milliseconds
+2024-09-27 23:05:38.266 [info] Environment refresh took 210 milliseconds
+2024-09-27 23:05:38.271 [info] > pixi --version
+2024-09-27 23:05:38.271 [warning] could not find a pixi interpreter for the interpreter at /bin/python
+2024-09-27 23:05:38.277 [info] Python interpreter path: /bin/python
+2024-09-27 23:05:39.384 [info] Starting Jedi language server for default.
+2024-09-27 23:05:49.346 [warning] could not find a pixi interpreter for the interpreter at /bin/python
+2024-09-27 23:05:50.546 [info] Send text to terminal:  /usr/bin/env /bin/python /home/soup/.vscode/extensions/ms-python.debugpy-2024.11.0-dev-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 60557 -- /home/soup/Documents/RandomTK.py 
+2024-09-27 23:06:38.019 [info] Send text to terminal: 
+2024-09-27 23:06:38.220 [info] Send text to terminal:  cd /home/soup/Documents ; /usr/bin/env /bin/python /home/soup/.vscode/extensions/ms-python.debugpy-2024.11.0-dev-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 55639 -- /home/soup/Documents/RandomTK.py 

@@ -1,0 +1,787 @@
+2024-09-27T19:28:01.403Z [Modules] Modules initializing
+2024-09-27T19:28:01.403Z [Modules] Distribution: remote
+2024-09-27T19:28:01.403Z [Modules] Host updates: enabled
+2024-09-27T19:28:01.403Z [Modules] Module updates: enabled
+2024-09-27T19:28:01.403Z [Modules] Module install path: /home/soup/.config/discord/0.0.69/modules
+2024-09-27T19:28:01.403Z [Modules] Module installed file path: /home/soup/.config/discord/0.0.69/modules/installed.json
+2024-09-27T19:28:01.403Z [Modules] Module download path: /home/soup/.config/discord/0.0.69/modules/pending
+2024-09-27T19:28:01.842Z [Modules] Bootstrapping...
+2024-09-27T19:28:01.842Z [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+2024-09-27T19:28:01.844Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+2024-09-27T19:28:01.844Z [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+2024-09-27T19:28:01.845Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+2024-09-27T19:28:01.846Z [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+2024-09-27T19:28:01.846Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+2024-09-27T19:28:01.847Z [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+2024-09-27T19:28:01.854Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+2024-09-27T19:28:01.855Z [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+2024-09-27T19:28:01.856Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+2024-09-27T19:28:01.856Z [Modules] Installing discord_zstd@0 from /opt/discord/resources/bootstrap/discord_zstd.zip
+2024-09-27T19:28:01.857Z [Modules] Failed installing discord_zstd@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_zstd.zip'
+2024-09-27T19:28:01.857Z [Modules] Finished module installations. [success: 0] [failure: 6]
+2024-09-27T19:28:01.857Z [Modules] Checking for host updates.
+2024-09-27T19:28:02.472Z [Modules] Host is up to date.
+2024-09-27T19:28:02.472Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-27T19:28:02.534Z [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+2024-09-27T19:28:02.534Z [Modules] Module update available: discord_erlpack@1 [installed: 0]
+2024-09-27T19:28:02.534Z [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+2024-09-27T19:28:02.534Z [Modules] Module update available: discord_utils@1 [installed: 0]
+2024-09-27T19:28:02.534Z [Modules] Module update available: discord_voice@1 [installed: 0]
+2024-09-27T19:28:02.535Z [Modules] Module update available: discord_zstd@1 [installed: 0]
+2024-09-27T19:28:02.535Z [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+2024-09-27T19:28:02.535Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip
+2024-09-27T19:28:02.890Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 1%
+2024-09-27T19:28:02.894Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 2%
+2024-09-27T19:28:02.909Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 3%
+2024-09-27T19:28:02.911Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 4%
+2024-09-27T19:28:02.917Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 5%
+2024-09-27T19:28:02.919Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 6%
+2024-09-27T19:28:02.931Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 7%
+2024-09-27T19:28:02.932Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 8%
+2024-09-27T19:28:02.937Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 9%
+2024-09-27T19:28:02.939Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 10%
+2024-09-27T19:28:02.943Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 12%
+2024-09-27T19:28:02.946Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 13%
+2024-09-27T19:28:02.948Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 14%
+2024-09-27T19:28:02.951Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 15%
+2024-09-27T19:28:02.953Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 16%
+2024-09-27T19:28:02.957Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 18%
+2024-09-27T19:28:02.961Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 20%
+2024-09-27T19:28:02.962Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 21%
+2024-09-27T19:28:02.966Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 24%
+2024-09-27T19:28:02.969Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 25%
+2024-09-27T19:28:02.973Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 28%
+2024-09-27T19:28:02.973Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 29%
+2024-09-27T19:28:02.976Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 31%
+2024-09-27T19:28:02.977Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 32%
+2024-09-27T19:28:02.982Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 35%
+2024-09-27T19:28:02.985Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 38%
+2024-09-27T19:28:02.986Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 39%
+2024-09-27T19:28:02.988Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 41%
+2024-09-27T19:28:02.989Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 42%
+2024-09-27T19:28:02.990Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 43%
+2024-09-27T19:28:02.992Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 45%
+2024-09-27T19:28:02.993Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 46%
+2024-09-27T19:28:02.996Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 49%
+2024-09-27T19:28:02.997Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 50%
+2024-09-27T19:28:03.001Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 53%
+2024-09-27T19:28:03.001Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 54%
+2024-09-27T19:28:03.005Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 57%
+2024-09-27T19:28:03.005Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 58%
+2024-09-27T19:28:03.009Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 60%
+2024-09-27T19:28:03.009Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 61%
+2024-09-27T19:28:03.012Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 64%
+2024-09-27T19:28:03.015Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 67%
+2024-09-27T19:28:03.016Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 68%
+2024-09-27T19:28:03.018Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 70%
+2024-09-27T19:28:03.018Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 71%
+2024-09-27T19:28:03.021Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 74%
+2024-09-27T19:28:03.023Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 77%
+2024-09-27T19:28:03.026Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 79%
+2024-09-27T19:28:03.026Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 80%
+2024-09-27T19:28:03.031Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 83%
+2024-09-27T19:28:03.032Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 84%
+2024-09-27T19:28:03.034Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 86%
+2024-09-27T19:28:03.035Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 87%
+2024-09-27T19:28:03.040Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 90%
+2024-09-27T19:28:03.041Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 91%
+2024-09-27T19:28:03.045Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 94%
+2024-09-27T19:28:03.045Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 95%
+2024-09-27T19:28:03.049Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 98%
+2024-09-27T19:28:03.049Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 99%
+2024-09-27T19:28:03.051Z [Modules] Streaming discord_desktop_core@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 100%
+2024-09-27T19:28:03.052Z [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+2024-09-27T19:28:03.052Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip
+2024-09-27T19:28:03.317Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 2%
+2024-09-27T19:28:03.330Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 3%
+2024-09-27T19:28:03.333Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 6%
+2024-09-27T19:28:03.347Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 9%
+2024-09-27T19:28:03.350Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 12%
+2024-09-27T19:28:03.352Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 14%
+2024-09-27T19:28:03.354Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 16%
+2024-09-27T19:28:03.361Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 19%
+2024-09-27T19:28:03.363Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 20%
+2024-09-27T19:28:03.365Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 23%
+2024-09-27T19:28:03.367Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 26%
+2024-09-27T19:28:03.369Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 29%
+2024-09-27T19:28:03.373Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 32%
+2024-09-27T19:28:03.375Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 35%
+2024-09-27T19:28:03.378Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 37%
+2024-09-27T19:28:03.380Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 40%
+2024-09-27T19:28:03.382Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 41%
+2024-09-27T19:28:03.384Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 44%
+2024-09-27T19:28:03.386Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 47%
+2024-09-27T19:28:03.388Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 50%
+2024-09-27T19:28:03.391Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 53%
+2024-09-27T19:28:03.393Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 56%
+2024-09-27T19:28:03.395Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 57%
+2024-09-27T19:28:03.398Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 60%
+2024-09-27T19:28:03.400Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 62%
+2024-09-27T19:28:03.402Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 65%
+2024-09-27T19:28:03.407Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 68%
+2024-09-27T19:28:03.408Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 69%
+2024-09-27T19:28:03.410Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 72%
+2024-09-27T19:28:03.413Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 75%
+2024-09-27T19:28:03.415Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 78%
+2024-09-27T19:28:03.419Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 81%
+2024-09-27T19:28:03.419Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 82%
+2024-09-27T19:28:03.421Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 85%
+2024-09-27T19:28:03.423Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 86%
+2024-09-27T19:28:03.426Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 89%
+2024-09-27T19:28:03.427Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 90%
+2024-09-27T19:28:03.429Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 93%
+2024-09-27T19:28:03.432Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 96%
+2024-09-27T19:28:03.433Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 97%
+2024-09-27T19:28:03.434Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 98%
+2024-09-27T19:28:03.435Z [Modules] Streaming discord_erlpack@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 100%
+2024-09-27T19:28:03.436Z [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+2024-09-27T19:28:03.436Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip
+2024-09-27T19:28:03.711Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 1%
+2024-09-27T19:28:03.715Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 2%
+2024-09-27T19:28:03.718Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 3%
+2024-09-27T19:28:03.722Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 4%
+2024-09-27T19:28:03.726Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 5%
+2024-09-27T19:28:03.731Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 6%
+2024-09-27T19:28:03.739Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 7%
+2024-09-27T19:28:03.743Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 8%
+2024-09-27T19:28:03.746Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 9%
+2024-09-27T19:28:03.750Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 10%
+2024-09-27T19:28:03.754Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 11%
+2024-09-27T19:28:03.758Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 12%
+2024-09-27T19:28:03.762Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 13%
+2024-09-27T19:28:03.766Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 14%
+2024-09-27T19:28:03.772Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 15%
+2024-09-27T19:28:03.779Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 16%
+2024-09-27T19:28:03.783Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 17%
+2024-09-27T19:28:03.787Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 18%
+2024-09-27T19:28:03.791Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 19%
+2024-09-27T19:28:03.794Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 20%
+2024-09-27T19:28:03.799Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 21%
+2024-09-27T19:28:03.801Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 22%
+2024-09-27T19:28:03.808Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 23%
+2024-09-27T19:28:03.813Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 24%
+2024-09-27T19:28:03.817Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 25%
+2024-09-27T19:28:03.820Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 26%
+2024-09-27T19:28:03.823Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 27%
+2024-09-27T19:28:03.828Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 28%
+2024-09-27T19:28:03.834Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 29%
+2024-09-27T19:28:03.839Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 30%
+2024-09-27T19:28:03.842Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 31%
+2024-09-27T19:28:03.846Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 32%
+2024-09-27T19:28:03.850Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 33%
+2024-09-27T19:28:03.853Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 34%
+2024-09-27T19:28:03.856Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 35%
+2024-09-27T19:28:03.860Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 36%
+2024-09-27T19:28:03.865Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 37%
+2024-09-27T19:28:03.868Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 38%
+2024-09-27T19:28:03.877Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 39%
+2024-09-27T19:28:03.881Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 40%
+2024-09-27T19:28:03.884Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 41%
+2024-09-27T19:28:03.888Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 42%
+2024-09-27T19:28:03.893Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 43%
+2024-09-27T19:28:03.896Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 44%
+2024-09-27T19:28:03.899Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 45%
+2024-09-27T19:28:03.904Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 46%
+2024-09-27T19:28:03.908Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 47%
+2024-09-27T19:28:03.912Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 48%
+2024-09-27T19:28:03.919Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 49%
+2024-09-27T19:28:03.923Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 50%
+2024-09-27T19:28:03.927Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 51%
+2024-09-27T19:28:03.930Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 52%
+2024-09-27T19:28:03.933Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 53%
+2024-09-27T19:28:03.939Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 54%
+2024-09-27T19:28:03.942Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 55%
+2024-09-27T19:28:03.947Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 56%
+2024-09-27T19:28:03.953Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 57%
+2024-09-27T19:28:03.956Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 58%
+2024-09-27T19:28:03.962Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 59%
+2024-09-27T19:28:03.965Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 60%
+2024-09-27T19:28:03.970Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 61%
+2024-09-27T19:28:03.974Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 62%
+2024-09-27T19:28:03.981Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 63%
+2024-09-27T19:28:03.984Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 64%
+2024-09-27T19:28:03.987Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 65%
+2024-09-27T19:28:03.991Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 66%
+2024-09-27T19:28:03.998Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 67%
+2024-09-27T19:28:04.001Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 68%
+2024-09-27T19:28:04.004Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 69%
+2024-09-27T19:28:04.008Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 70%
+2024-09-27T19:28:04.011Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 71%
+2024-09-27T19:28:04.015Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 72%
+2024-09-27T19:28:04.021Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 73%
+2024-09-27T19:28:04.025Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 74%
+2024-09-27T19:28:04.027Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 75%
+2024-09-27T19:28:04.034Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 76%
+2024-09-27T19:28:04.037Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 77%
+2024-09-27T19:28:04.041Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 78%
+2024-09-27T19:28:04.045Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 79%
+2024-09-27T19:28:04.048Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 80%
+2024-09-27T19:28:04.054Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 81%
+2024-09-27T19:28:04.057Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 82%
+2024-09-27T19:28:04.062Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 83%
+2024-09-27T19:28:04.068Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 84%
+2024-09-27T19:28:04.073Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 85%
+2024-09-27T19:28:04.079Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 86%
+2024-09-27T19:28:04.084Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 87%
+2024-09-27T19:28:04.090Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 88%
+2024-09-27T19:28:04.093Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 89%
+2024-09-27T19:28:04.095Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 90%
+2024-09-27T19:28:04.099Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 91%
+2024-09-27T19:28:04.104Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 92%
+2024-09-27T19:28:04.107Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 93%
+2024-09-27T19:28:04.113Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 94%
+2024-09-27T19:28:04.116Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 95%
+2024-09-27T19:28:04.120Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 96%
+2024-09-27T19:28:04.124Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 97%
+2024-09-27T19:28:04.127Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 98%
+2024-09-27T19:28:04.132Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 99%
+2024-09-27T19:28:04.136Z [Modules] Streaming discord_spellcheck@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 100%
+2024-09-27T19:28:04.137Z [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+2024-09-27T19:28:04.137Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip
+2024-09-27T19:28:04.410Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 2%
+2024-09-27T19:28:04.412Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 4%
+2024-09-27T19:28:04.415Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 6%
+2024-09-27T19:28:04.417Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 7%
+2024-09-27T19:28:04.421Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 9%
+2024-09-27T19:28:04.425Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 11%
+2024-09-27T19:28:04.427Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 13%
+2024-09-27T19:28:04.430Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 14%
+2024-09-27T19:28:04.432Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 16%
+2024-09-27T19:28:04.435Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 18%
+2024-09-27T19:28:04.438Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 20%
+2024-09-27T19:28:04.445Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 21%
+2024-09-27T19:28:04.449Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 23%
+2024-09-27T19:28:04.455Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 24%
+2024-09-27T19:28:04.459Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 25%
+2024-09-27T19:28:04.462Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 26%
+2024-09-27T19:28:04.465Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 28%
+2024-09-27T19:28:04.470Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 29%
+2024-09-27T19:28:04.473Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 30%
+2024-09-27T19:28:04.476Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 31%
+2024-09-27T19:28:04.494Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 33%
+2024-09-27T19:28:04.497Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 34%
+2024-09-27T19:28:04.499Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 36%
+2024-09-27T19:28:04.502Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 38%
+2024-09-27T19:28:04.510Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 40%
+2024-09-27T19:28:04.514Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 42%
+2024-09-27T19:28:04.515Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 43%
+2024-09-27T19:28:04.517Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 44%
+2024-09-27T19:28:04.521Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 46%
+2024-09-27T19:28:04.523Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 47%
+2024-09-27T19:28:04.526Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 48%
+2024-09-27T19:28:04.529Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 50%
+2024-09-27T19:28:04.532Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 52%
+2024-09-27T19:28:04.537Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 54%
+2024-09-27T19:28:04.542Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 55%
+2024-09-27T19:28:04.545Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 57%
+2024-09-27T19:28:04.550Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 59%
+2024-09-27T19:28:04.553Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 60%
+2024-09-27T19:28:04.557Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 61%
+2024-09-27T19:28:04.563Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 62%
+2024-09-27T19:28:04.566Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 64%
+2024-09-27T19:28:04.571Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 65%
+2024-09-27T19:28:04.574Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 67%
+2024-09-27T19:28:04.576Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 68%
+2024-09-27T19:28:04.581Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 69%
+2024-09-27T19:28:04.585Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 71%
+2024-09-27T19:28:04.600Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 73%
+2024-09-27T19:28:04.602Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 75%
+2024-09-27T19:28:04.605Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 76%
+2024-09-27T19:28:04.607Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 77%
+2024-09-27T19:28:04.613Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 79%
+2024-09-27T19:28:04.619Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 81%
+2024-09-27T19:28:04.621Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 82%
+2024-09-27T19:28:04.623Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 84%
+2024-09-27T19:28:04.627Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 86%
+2024-09-27T19:28:04.630Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 88%
+2024-09-27T19:28:04.633Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 90%
+2024-09-27T19:28:04.635Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 91%
+2024-09-27T19:28:04.637Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 93%
+2024-09-27T19:28:04.643Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 95%
+2024-09-27T19:28:04.646Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 96%
+2024-09-27T19:28:04.650Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 98%
+2024-09-27T19:28:04.653Z [Modules] Streaming discord_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 100%
+2024-09-27T19:28:04.654Z [Modules] Fetching discord_voice@1 from https://discord.com/api/modules/stable/discord_voice/1
+2024-09-27T19:28:04.654Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip
+2024-09-27T19:28:04.896Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 1%
+2024-09-27T19:28:04.906Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 2%
+2024-09-27T19:28:04.915Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 3%
+2024-09-27T19:28:04.926Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 4%
+2024-09-27T19:28:04.932Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 5%
+2024-09-27T19:28:04.943Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 6%
+2024-09-27T19:28:04.950Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 7%
+2024-09-27T19:28:04.959Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 8%
+2024-09-27T19:28:04.971Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 9%
+2024-09-27T19:28:04.984Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 10%
+2024-09-27T19:28:04.991Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 11%
+2024-09-27T19:28:05.001Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 12%
+2024-09-27T19:28:05.012Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 13%
+2024-09-27T19:28:05.023Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 14%
+2024-09-27T19:28:05.033Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 15%
+2024-09-27T19:28:05.043Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 16%
+2024-09-27T19:28:05.052Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 17%
+2024-09-27T19:28:05.061Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 18%
+2024-09-27T19:28:05.069Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 19%
+2024-09-27T19:28:05.078Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 20%
+2024-09-27T19:28:05.097Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 21%
+2024-09-27T19:28:05.106Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 22%
+2024-09-27T19:28:05.115Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 23%
+2024-09-27T19:28:05.788Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 24%
+2024-09-27T19:28:05.797Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 25%
+2024-09-27T19:28:05.806Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 26%
+2024-09-27T19:28:06.197Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 27%
+2024-09-27T19:28:06.205Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 28%
+2024-09-27T19:28:06.216Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 29%
+2024-09-27T19:28:06.224Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 30%
+2024-09-27T19:28:06.235Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 31%
+2024-09-27T19:28:06.244Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 32%
+2024-09-27T19:28:06.252Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 33%
+2024-09-27T19:28:06.262Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 34%
+2024-09-27T19:28:06.273Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 35%
+2024-09-27T19:28:06.281Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 36%
+2024-09-27T19:28:06.288Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 37%
+2024-09-27T19:28:06.300Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 38%
+2024-09-27T19:28:06.311Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 39%
+2024-09-27T19:28:06.321Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 40%
+2024-09-27T19:28:06.329Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 41%
+2024-09-27T19:28:06.339Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 42%
+2024-09-27T19:28:06.347Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 43%
+2024-09-27T19:28:06.358Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 44%
+2024-09-27T19:28:06.366Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 45%
+2024-09-27T19:28:06.376Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 46%
+2024-09-27T19:28:06.386Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 47%
+2024-09-27T19:28:06.395Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 48%
+2024-09-27T19:28:06.403Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 49%
+2024-09-27T19:28:06.414Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 50%
+2024-09-27T19:28:06.422Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 51%
+2024-09-27T19:28:06.432Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 52%
+2024-09-27T19:28:06.442Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 53%
+2024-09-27T19:28:06.452Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 54%
+2024-09-27T19:28:06.460Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 55%
+2024-09-27T19:28:06.470Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 56%
+2024-09-27T19:28:06.479Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 57%
+2024-09-27T19:28:06.488Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 58%
+2024-09-27T19:28:06.498Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 59%
+2024-09-27T19:28:06.505Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 60%
+2024-09-27T19:28:06.515Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 61%
+2024-09-27T19:28:06.523Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 62%
+2024-09-27T19:28:06.533Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 63%
+2024-09-27T19:28:06.544Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 64%
+2024-09-27T19:28:06.554Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 65%
+2024-09-27T19:28:06.562Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 66%
+2024-09-27T19:28:06.574Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 67%
+2024-09-27T19:28:06.583Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 68%
+2024-09-27T19:28:06.592Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 69%
+2024-09-27T19:28:06.602Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 70%
+2024-09-27T19:28:06.612Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 71%
+2024-09-27T19:28:06.620Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 72%
+2024-09-27T19:28:06.630Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 73%
+2024-09-27T19:28:06.639Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 74%
+2024-09-27T19:28:06.649Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 75%
+2024-09-27T19:28:06.663Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 76%
+2024-09-27T19:28:06.685Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 77%
+2024-09-27T19:28:06.692Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 78%
+2024-09-27T19:28:06.701Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 79%
+2024-09-27T19:28:06.715Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 80%
+2024-09-27T19:28:06.722Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 81%
+2024-09-27T19:28:06.733Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 82%
+2024-09-27T19:28:06.745Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 83%
+2024-09-27T19:28:06.754Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 84%
+2024-09-27T19:28:06.765Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 85%
+2024-09-27T19:28:06.773Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 86%
+2024-09-27T19:28:06.782Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 87%
+2024-09-27T19:28:06.793Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 88%
+2024-09-27T19:28:06.801Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 89%
+2024-09-27T19:28:06.811Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 90%
+2024-09-27T19:28:06.821Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 91%
+2024-09-27T19:28:06.830Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 92%
+2024-09-27T19:28:06.837Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 93%
+2024-09-27T19:28:06.847Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 94%
+2024-09-27T19:28:06.861Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 95%
+2024-09-27T19:28:06.868Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 96%
+2024-09-27T19:28:06.880Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 97%
+2024-09-27T19:28:06.890Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 98%
+2024-09-27T19:28:06.899Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 99%
+2024-09-27T19:28:06.909Z [Modules] Streaming discord_voice@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 100%
+2024-09-27T19:28:06.910Z [Modules] Fetching discord_zstd@1 from https://discord.com/api/modules/stable/discord_zstd/1
+2024-09-27T19:28:06.910Z [Modules] Streaming discord_zstd@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_zstd-1.zip
+2024-09-27T19:28:07.126Z [Modules] Streaming discord_zstd@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_zstd-1.zip: 15%
+2024-09-27T19:28:07.132Z [Modules] Streaming discord_zstd@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_zstd-1.zip: 27%
+2024-09-27T19:28:07.133Z [Modules] Streaming discord_zstd@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_zstd-1.zip: 52%
+2024-09-27T19:28:07.134Z [Modules] Streaming discord_zstd@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_zstd-1.zip: 68%
+2024-09-27T19:28:07.137Z [Modules] Streaming discord_zstd@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_zstd-1.zip: 84%
+2024-09-27T19:28:07.139Z [Modules] Streaming discord_zstd@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_zstd-1.zip: 100%
+2024-09-27T19:28:07.140Z [Modules] Finished module downloads. [success: 6] [failure: 0]
+2024-09-27T19:28:07.140Z [Modules] Installing updates...
+2024-09-27T19:28:07.140Z [Modules] Installing discord_desktop_core@1 from /home/soup/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip
+2024-09-27T19:28:07.214Z [Modules] Installing discord_erlpack@1 from /home/soup/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip
+2024-09-27T19:28:07.252Z [Modules] Installing discord_spellcheck@1 from /home/soup/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip
+2024-09-27T19:28:07.660Z [Modules] Installing discord_utils@1 from /home/soup/.config/discord/0.0.69/modules/pending/discord_utils-1.zip
+2024-09-27T19:28:07.742Z [Modules] Installing discord_voice@1 from /home/soup/.config/discord/0.0.69/modules/pending/discord_voice-1.zip
+2024-09-27T19:28:08.109Z [Modules] Installing discord_zstd@1 from /home/soup/.config/discord/0.0.69/modules/pending/discord_zstd-1.zip
+2024-09-27T19:28:08.121Z [Modules] Finished module installations. [success: 6] [failure: 0]
+2024-09-27T19:28:08.121Z [Modules] Checking for host updates.
+2024-09-27T19:28:08.388Z [Modules] Host is up to date.
+2024-09-27T19:28:08.388Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-27T19:28:08.401Z [Modules] No module updates available.
+2024-09-27T19:28:09.432Z [Modules] Starting to install discord_krisp...
+2024-09-27T19:28:09.432Z [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+2024-09-27T19:28:09.432Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip
+2024-09-27T19:28:09.439Z [Modules] Checking for host updates.
+2024-09-27T19:28:09.442Z [Modules] Starting to install discord_game_utils...
+2024-09-27T19:28:09.622Z [Modules] Host is up to date.
+2024-09-27T19:28:09.623Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-27T19:28:09.626Z [Modules] No module updates available.
+2024-09-27T19:28:09.784Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 1%
+2024-09-27T19:28:09.816Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 2%
+2024-09-27T19:28:09.835Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 3%
+2024-09-27T19:28:09.866Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 4%
+2024-09-27T19:28:09.879Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 5%
+2024-09-27T19:28:09.895Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 6%
+2024-09-27T19:28:09.911Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 7%
+2024-09-27T19:28:09.920Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 8%
+2024-09-27T19:28:09.931Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 9%
+2024-09-27T19:28:09.942Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 10%
+2024-09-27T19:28:09.951Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 11%
+2024-09-27T19:28:09.960Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 12%
+2024-09-27T19:28:09.968Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 13%
+2024-09-27T19:28:09.978Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 14%
+2024-09-27T19:28:09.987Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 15%
+2024-09-27T19:28:09.998Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 16%
+2024-09-27T19:28:10.007Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 17%
+2024-09-27T19:28:10.016Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 18%
+2024-09-27T19:28:10.029Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 19%
+2024-09-27T19:28:10.039Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 20%
+2024-09-27T19:28:10.047Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 21%
+2024-09-27T19:28:10.056Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 22%
+2024-09-27T19:28:10.065Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 23%
+2024-09-27T19:28:10.073Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 24%
+2024-09-27T19:28:10.083Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 25%
+2024-09-27T19:28:10.092Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 26%
+2024-09-27T19:28:10.100Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 27%
+2024-09-27T19:28:10.112Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 28%
+2024-09-27T19:28:10.121Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 29%
+2024-09-27T19:28:10.131Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 30%
+2024-09-27T19:28:10.141Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 31%
+2024-09-27T19:28:10.150Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 32%
+2024-09-27T19:28:10.160Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 33%
+2024-09-27T19:28:10.168Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 34%
+2024-09-27T19:28:10.176Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 35%
+2024-09-27T19:28:10.185Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 36%
+2024-09-27T19:28:10.196Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 37%
+2024-09-27T19:28:10.204Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 38%
+2024-09-27T19:28:10.212Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 39%
+2024-09-27T19:28:10.221Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 40%
+2024-09-27T19:28:10.233Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 41%
+2024-09-27T19:28:10.256Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 42%
+2024-09-27T19:28:10.269Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 43%
+2024-09-27T19:28:10.282Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 44%
+2024-09-27T19:28:10.290Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 45%
+2024-09-27T19:28:10.301Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 46%
+2024-09-27T19:28:10.310Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 47%
+2024-09-27T19:28:10.320Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 48%
+2024-09-27T19:28:10.331Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 49%
+2024-09-27T19:28:10.342Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 50%
+2024-09-27T19:28:10.351Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 51%
+2024-09-27T19:28:10.360Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 52%
+2024-09-27T19:28:10.369Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 53%
+2024-09-27T19:28:10.379Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 54%
+2024-09-27T19:28:10.388Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 55%
+2024-09-27T19:28:10.396Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 56%
+2024-09-27T19:28:10.406Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 57%
+2024-09-27T19:28:10.415Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 58%
+2024-09-27T19:28:10.424Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 59%
+2024-09-27T19:28:10.435Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 60%
+2024-09-27T19:28:10.446Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 61%
+2024-09-27T19:28:10.455Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 62%
+2024-09-27T19:28:10.463Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 63%
+2024-09-27T19:28:10.482Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 64%
+2024-09-27T19:28:10.606Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 65%
+2024-09-27T19:28:10.631Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 66%
+2024-09-27T19:28:10.631Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 67%
+2024-09-27T19:28:10.631Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 68%
+2024-09-27T19:28:10.632Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 69%
+2024-09-27T19:28:10.632Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 70%
+2024-09-27T19:28:10.632Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 71%
+2024-09-27T19:28:10.633Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 72%
+2024-09-27T19:28:10.633Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 73%
+2024-09-27T19:28:10.636Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 74%
+2024-09-27T19:28:10.637Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 75%
+2024-09-27T19:28:10.637Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 76%
+2024-09-27T19:28:10.644Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 77%
+2024-09-27T19:28:10.678Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 78%
+2024-09-27T19:28:10.687Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 79%
+2024-09-27T19:28:10.706Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 80%
+2024-09-27T19:28:10.724Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 81%
+2024-09-27T19:28:10.755Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 82%
+2024-09-27T19:28:10.763Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 83%
+2024-09-27T19:28:10.775Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 84%
+2024-09-27T19:28:10.792Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 85%
+2024-09-27T19:28:10.802Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 86%
+2024-09-27T19:28:10.818Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 87%
+2024-09-27T19:28:10.831Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 88%
+2024-09-27T19:28:10.840Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 89%
+2024-09-27T19:28:10.858Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 90%
+2024-09-27T19:28:10.869Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 91%
+2024-09-27T19:28:10.880Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 92%
+2024-09-27T19:28:10.890Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 93%
+2024-09-27T19:28:10.900Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 94%
+2024-09-27T19:28:10.910Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 95%
+2024-09-27T19:28:10.919Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 96%
+2024-09-27T19:28:10.929Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 97%
+2024-09-27T19:28:10.939Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 98%
+2024-09-27T19:28:10.950Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 99%
+2024-09-27T19:28:10.959Z [Modules] Streaming discord_krisp@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 100%
+2024-09-27T19:28:10.960Z [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+2024-09-27T19:28:10.960Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip
+2024-09-27T19:28:10.960Z [Modules] Installing discord_krisp@1 from /home/soup/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip
+2024-09-27T19:28:10.981Z [Modules] Starting to install discord_rpc...
+2024-09-27T19:28:11.225Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 1%
+2024-09-27T19:28:11.227Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 2%
+2024-09-27T19:28:11.228Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 3%
+2024-09-27T19:28:11.229Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 4%
+2024-09-27T19:28:11.230Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 5%
+2024-09-27T19:28:11.231Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 6%
+2024-09-27T19:28:11.232Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 7%
+2024-09-27T19:28:11.233Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 8%
+2024-09-27T19:28:11.235Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 9%
+2024-09-27T19:28:11.235Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 10%
+2024-09-27T19:28:11.236Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 11%
+2024-09-27T19:28:11.238Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 12%
+2024-09-27T19:28:11.238Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 13%
+2024-09-27T19:28:11.239Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 14%
+2024-09-27T19:28:11.241Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 15%
+2024-09-27T19:28:11.242Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 16%
+2024-09-27T19:28:11.243Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 17%
+2024-09-27T19:28:11.244Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 18%
+2024-09-27T19:28:11.245Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 19%
+2024-09-27T19:28:11.246Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 20%
+2024-09-27T19:28:11.247Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 21%
+2024-09-27T19:28:11.248Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 22%
+2024-09-27T19:28:11.250Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 23%
+2024-09-27T19:28:11.251Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 24%
+2024-09-27T19:28:11.252Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 25%
+2024-09-27T19:28:11.254Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 26%
+2024-09-27T19:28:11.255Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 27%
+2024-09-27T19:28:11.257Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 28%
+2024-09-27T19:28:11.258Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 29%
+2024-09-27T19:28:11.259Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 30%
+2024-09-27T19:28:11.260Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 31%
+2024-09-27T19:28:11.261Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 32%
+2024-09-27T19:28:11.262Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 33%
+2024-09-27T19:28:11.263Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 34%
+2024-09-27T19:28:11.264Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 35%
+2024-09-27T19:28:11.266Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 36%
+2024-09-27T19:28:11.267Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 37%
+2024-09-27T19:28:11.268Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 38%
+2024-09-27T19:28:11.269Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 39%
+2024-09-27T19:28:11.270Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 40%
+2024-09-27T19:28:11.271Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 41%
+2024-09-27T19:28:11.272Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 42%
+2024-09-27T19:28:11.273Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 43%
+2024-09-27T19:28:11.274Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 44%
+2024-09-27T19:28:11.275Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 45%
+2024-09-27T19:28:11.276Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 46%
+2024-09-27T19:28:11.277Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 47%
+2024-09-27T19:28:11.278Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 48%
+2024-09-27T19:28:11.279Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 49%
+2024-09-27T19:28:11.281Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 50%
+2024-09-27T19:28:11.282Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 51%
+2024-09-27T19:28:11.282Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 52%
+2024-09-27T19:28:11.284Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 53%
+2024-09-27T19:28:11.284Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 54%
+2024-09-27T19:28:11.285Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 55%
+2024-09-27T19:28:11.286Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 56%
+2024-09-27T19:28:11.287Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 57%
+2024-09-27T19:28:11.288Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 58%
+2024-09-27T19:28:11.290Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 59%
+2024-09-27T19:28:11.291Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 60%
+2024-09-27T19:28:11.291Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 61%
+2024-09-27T19:28:11.293Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 62%
+2024-09-27T19:28:11.294Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 63%
+2024-09-27T19:28:11.295Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 64%
+2024-09-27T19:28:11.296Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 65%
+2024-09-27T19:28:11.297Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 66%
+2024-09-27T19:28:11.298Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 67%
+2024-09-27T19:28:11.300Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 69%
+2024-09-27T19:28:11.306Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 71%
+2024-09-27T19:28:11.306Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 74%
+2024-09-27T19:28:11.308Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 75%
+2024-09-27T19:28:11.309Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 76%
+2024-09-27T19:28:11.310Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 77%
+2024-09-27T19:28:11.311Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 78%
+2024-09-27T19:28:11.312Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 79%
+2024-09-27T19:28:11.313Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 80%
+2024-09-27T19:28:11.314Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 81%
+2024-09-27T19:28:11.315Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 82%
+2024-09-27T19:28:11.316Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 83%
+2024-09-27T19:28:11.317Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2024-09-27T19:28:11.317Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 84%
+2024-09-27T19:28:11.318Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 85%
+2024-09-27T19:28:11.319Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 86%
+2024-09-27T19:28:11.320Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 87%
+2024-09-27T19:28:11.321Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 88%
+2024-09-27T19:28:11.322Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 89%
+2024-09-27T19:28:11.323Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 90%
+2024-09-27T19:28:11.324Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 91%
+2024-09-27T19:28:11.325Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 92%
+2024-09-27T19:28:11.326Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 93%
+2024-09-27T19:28:11.327Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 94%
+2024-09-27T19:28:11.328Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 95%
+2024-09-27T19:28:11.329Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 96%
+2024-09-27T19:28:11.330Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 97%
+2024-09-27T19:28:11.333Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 98%
+2024-09-27T19:28:11.334Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 99%
+2024-09-27T19:28:11.335Z [Modules] Streaming discord_game_utils@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 100%
+2024-09-27T19:28:11.336Z [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+2024-09-27T19:28:11.336Z [Modules] Streaming discord_rpc@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_rpc-1.zip
+2024-09-27T19:28:11.336Z [Modules] Installing discord_game_utils@1 from /home/soup/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip
+2024-09-27T19:28:11.390Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2024-09-27T19:28:11.557Z [Modules] Streaming discord_rpc@1 to /home/soup/.config/discord/0.0.69/modules/pending/discord_rpc-1.zip: 100%
+2024-09-27T19:28:11.558Z [Modules] Finished module downloads. [success: 3] [failure: 0]
+2024-09-27T19:28:11.558Z [Modules] Installing discord_rpc@1 from /home/soup/.config/discord/0.0.69/modules/pending/discord_rpc-1.zip
+2024-09-27T19:28:11.569Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2024-09-27T19:40:13.255Z [Modules] Modules initializing
+2024-09-27T19:40:13.255Z [Modules] Distribution: remote
+2024-09-27T19:40:13.255Z [Modules] Host updates: enabled
+2024-09-27T19:40:13.258Z [Modules] Module updates: enabled
+2024-09-27T19:40:13.258Z [Modules] Module install path: /home/soup/.config/discord/0.0.69/modules
+2024-09-27T19:40:13.258Z [Modules] Module installed file path: /home/soup/.config/discord/0.0.69/modules/installed.json
+2024-09-27T19:40:13.258Z [Modules] Module download path: /home/soup/.config/discord/0.0.69/modules/pending
+2024-09-27T19:40:13.604Z [Modules] No updates to install
+2024-09-27T19:40:13.605Z [Modules] Checking for host updates.
+2024-09-27T19:40:13.845Z [Modules] Host is up to date.
+2024-09-27T19:40:13.845Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-27T19:40:13.895Z [Modules] No module updates available.
+2024-09-27T19:40:14.825Z [Modules] Checking for host updates.
+2024-09-27T19:40:15.003Z [Modules] Host is up to date.
+2024-09-27T19:40:15.003Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-27T19:40:15.005Z [Modules] No module updates available.
+2024-09-27T20:49:46.857Z [Modules] Modules initializing
+2024-09-27T20:49:46.857Z [Modules] Distribution: remote
+2024-09-27T20:49:46.857Z [Modules] Host updates: enabled
+2024-09-27T20:49:46.857Z [Modules] Module updates: enabled
+2024-09-27T20:49:46.858Z [Modules] Module install path: /home/soup/.config/discord/0.0.69/modules
+2024-09-27T20:49:46.858Z [Modules] Module installed file path: /home/soup/.config/discord/0.0.69/modules/installed.json
+2024-09-27T20:49:46.858Z [Modules] Module download path: /home/soup/.config/discord/0.0.69/modules/pending
+2024-09-27T20:49:47.227Z [Modules] No updates to install
+2024-09-27T20:49:47.227Z [Modules] Checking for host updates.
+2024-09-27T20:49:47.523Z [Modules] Host is up to date.
+2024-09-27T20:49:47.524Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-27T20:49:47.558Z [Modules] No module updates available.
+2024-09-27T20:49:50.744Z [Modules] Checking for host updates.
+2024-09-27T20:49:51.085Z [Modules] Host is up to date.
+2024-09-27T20:49:51.085Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-27T20:49:51.087Z [Modules] No module updates available.
+2024-09-28T06:42:17.095Z [Modules] Modules initializing
+2024-09-28T06:42:17.095Z [Modules] Distribution: remote
+2024-09-28T06:42:17.095Z [Modules] Host updates: enabled
+2024-09-28T06:42:17.095Z [Modules] Module updates: enabled
+2024-09-28T06:42:17.095Z [Modules] Module install path: /home/soup/.config/discord/0.0.69/modules
+2024-09-28T06:42:17.095Z [Modules] Module installed file path: /home/soup/.config/discord/0.0.69/modules/installed.json
+2024-09-28T06:42:17.095Z [Modules] Module download path: /home/soup/.config/discord/0.0.69/modules/pending
+2024-09-28T06:42:17.732Z [Modules] No updates to install
+2024-09-28T06:42:17.733Z [Modules] Checking for host updates.
+2024-09-28T06:42:18.001Z [Modules] Host is up to date.
+2024-09-28T06:42:18.001Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-28T06:42:18.056Z [Modules] No module updates available.
+2024-09-28T06:42:21.370Z [Modules] Checking for host updates.
+2024-09-28T06:42:21.565Z [Modules] Host is up to date.
+2024-09-28T06:42:21.565Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-28T06:42:21.568Z [Modules] No module updates available.
+2024-09-28T07:22:27.064Z [Modules] Modules initializing
+2024-09-28T07:22:27.064Z [Modules] Distribution: remote
+2024-09-28T07:22:27.064Z [Modules] Host updates: enabled
+2024-09-28T07:22:27.065Z [Modules] Module updates: enabled
+2024-09-28T07:22:27.065Z [Modules] Module install path: /home/soup/.config/discord/0.0.69/modules
+2024-09-28T07:22:27.065Z [Modules] Module installed file path: /home/soup/.config/discord/0.0.69/modules/installed.json
+2024-09-28T07:22:27.065Z [Modules] Module download path: /home/soup/.config/discord/0.0.69/modules/pending
+2024-09-28T07:22:27.745Z [Modules] No updates to install
+2024-09-28T07:22:27.746Z [Modules] Checking for host updates.
+2024-09-28T07:22:28.053Z [Modules] Host is up to date.
+2024-09-28T07:22:28.053Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-28T07:22:28.187Z [Modules] No module updates available.
+2024-09-28T07:22:31.632Z [Modules] Checking for host updates.
+2024-09-28T07:22:32.032Z [Modules] Host is up to date.
+2024-09-28T07:22:32.032Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-28T07:22:32.401Z [Modules] No module updates available.
+2024-09-28T08:22:31.678Z [Modules] Checking for host updates.
+2024-09-28T08:22:32.164Z [Modules] Host is up to date.
+2024-09-28T08:22:32.164Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-28T08:22:32.236Z [Modules] No module updates available.
+2024-09-28T09:22:31.632Z [Modules] Checking for host updates.
+2024-09-28T09:22:31.848Z [Modules] Host is up to date.
+2024-09-28T09:22:31.848Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-28T09:22:31.913Z [Modules] No module updates available.
+2024-09-28T15:52:03.806Z [Modules] Modules initializing
+2024-09-28T15:52:03.806Z [Modules] Distribution: remote
+2024-09-28T15:52:03.806Z [Modules] Host updates: enabled
+2024-09-28T15:52:03.806Z [Modules] Module updates: enabled
+2024-09-28T15:52:03.806Z [Modules] Module install path: /home/soup/.config/discord/0.0.69/modules
+2024-09-28T15:52:03.806Z [Modules] Module installed file path: /home/soup/.config/discord/0.0.69/modules/installed.json
+2024-09-28T15:52:03.806Z [Modules] Module download path: /home/soup/.config/discord/0.0.69/modules/pending
+2024-09-28T15:52:04.348Z [Modules] No updates to install
+2024-09-28T15:52:04.348Z [Modules] Checking for host updates.
+2024-09-28T15:52:04.685Z [Modules] Host is up to date.
+2024-09-28T15:52:04.686Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-28T15:52:04.793Z [Modules] No module updates available.
+2024-09-28T15:52:08.414Z [Modules] Checking for host updates.
+2024-09-28T15:52:08.597Z [Modules] Host is up to date.
+2024-09-28T15:52:08.597Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-28T15:52:08.602Z [Modules] No module updates available.
+2024-09-28T16:52:08.414Z [Modules] Checking for host updates.
+2024-09-28T16:52:08.633Z [Modules] Host is up to date.
+2024-09-28T16:52:08.633Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-28T16:52:08.672Z [Modules] No module updates available.
+2024-09-28T17:52:08.459Z [Modules] Checking for host updates.
+2024-09-28T17:52:08.803Z [Modules] Host is up to date.
+2024-09-28T17:52:08.803Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-28T17:52:08.842Z [Modules] No module updates available.
+2024-09-28T18:52:08.445Z [Modules] Checking for host updates.
+2024-09-28T18:52:08.777Z [Modules] Host is up to date.
+2024-09-28T18:52:08.777Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-28T18:52:08.805Z [Modules] No module updates available.
+2024-09-29T11:57:12.214Z [Modules] Modules initializing
+2024-09-29T11:57:12.214Z [Modules] Distribution: remote
+2024-09-29T11:57:12.215Z [Modules] Host updates: enabled
+2024-09-29T11:57:12.215Z [Modules] Module updates: enabled
+2024-09-29T11:57:12.215Z [Modules] Module install path: /home/soup/.config/discord/0.0.69/modules
+2024-09-29T11:57:12.215Z [Modules] Module installed file path: /home/soup/.config/discord/0.0.69/modules/installed.json
+2024-09-29T11:57:12.215Z [Modules] Module download path: /home/soup/.config/discord/0.0.69/modules/pending
+2024-09-29T11:57:12.719Z [Modules] No updates to install
+2024-09-29T11:57:12.719Z [Modules] Checking for host updates.
+2024-09-29T11:57:13.250Z [Modules] Host is up to date.
+2024-09-29T11:57:13.250Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-29T11:57:13.280Z [Modules] No module updates available.
+2024-09-29T11:57:16.799Z [Modules] Checking for host updates.
+2024-09-29T11:57:16.968Z [Modules] Host is up to date.
+2024-09-29T11:57:16.968Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-29T11:57:16.987Z [Modules] No module updates available.
+2024-09-29T12:57:16.848Z [Modules] Checking for host updates.
+2024-09-29T12:57:17.253Z [Modules] Host is up to date.
+2024-09-29T12:57:17.253Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-29T12:57:17.287Z [Modules] No module updates available.
+2024-09-29T13:57:16.848Z [Modules] Checking for host updates.
+2024-09-29T13:57:17.719Z [Modules] Host is up to date.
+2024-09-29T13:57:17.719Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-29T13:57:17.822Z [Modules] No module updates available.
+2024-09-29T14:15:06.910Z [Modules] Modules initializing
+2024-09-29T14:15:06.911Z [Modules] Distribution: remote
+2024-09-29T14:15:06.911Z [Modules] Host updates: enabled
+2024-09-29T14:15:06.911Z [Modules] Module updates: enabled
+2024-09-29T14:15:06.911Z [Modules] Module install path: /home/soup/.config/discord/0.0.69/modules
+2024-09-29T14:15:06.911Z [Modules] Module installed file path: /home/soup/.config/discord/0.0.69/modules/installed.json
+2024-09-29T14:15:06.911Z [Modules] Module download path: /home/soup/.config/discord/0.0.69/modules/pending
+2024-09-29T14:15:07.268Z [Modules] No updates to install
+2024-09-29T14:15:07.269Z [Modules] Checking for host updates.
+2024-09-29T14:15:07.591Z [Modules] Host is up to date.
+2024-09-29T14:15:07.591Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-29T14:15:07.643Z [Modules] No module updates available.
+2024-09-29T14:15:08.615Z [Modules] Checking for host updates.
+2024-09-29T14:15:09.005Z [Modules] Host is up to date.
+2024-09-29T14:15:09.005Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-29T14:15:09.007Z [Modules] No module updates available.
+2024-09-29T14:22:44.769Z [Modules] Checking for host updates.
+2024-09-29T14:22:45.196Z [Modules] Host is up to date.
+2024-09-29T14:22:45.196Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-29T14:22:45.511Z [Modules] No module updates available.

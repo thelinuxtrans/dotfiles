@@ -1,0 +1,7 @@
+2024-09-28 11:20:03.608 [info] update#setState disabled
+2024-09-28 11:20:03.609 [info] update#ctor - updates are disabled as there is no update URL
+2024-09-28 12:10:04.204 [error] ptyHost terminated unexpectedly with code 15
+2024-09-28 12:10:04.205 [warning] [UtilityProcess type: ptyHost, pid: 527846]: unable to kill the process
+2024-09-28 12:10:04.214 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2024-09-28 12:10:04.217 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 527857]: crashed with code 15 and reason 'killed'
+2024-09-28 12:10:04.229 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)

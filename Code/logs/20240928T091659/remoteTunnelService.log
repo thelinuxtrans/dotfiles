@@ -1,0 +1,2 @@
+2024-09-28 09:17:03.321 [error] status error(undefined): + Error: spawn /usr/bin/code-tunnel ENOENT 
+2024-09-28 09:17:03.321 [error] undefined
