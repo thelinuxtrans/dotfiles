@@ -1,0 +1,146 @@
+16:46:22.337: [Safe Mode] Unclean shutdown detected!
+16:46:26.226: [Safe Mode] User elected to launch normally.
+16:46:26.227: Platform: Wayland
+16:46:26.227: CPU Name: AMD Ryzen 5 5600G with Radeon Graphics
+16:46:26.227: CPU Speed: 3285.681MHz
+16:46:26.227: Physical Cores: 6, Logical Cores: 12
+16:46:26.227: Physical Memory: 15324MB Total, 3652MB Free
+16:46:26.227: Kernel Version: Linux 6.10.10-zen1-1-zen
+16:46:26.227: Distribution: "Arch Linux" Unknown
+16:46:26.227: Desktop Environment: Hyprland ()
+16:46:26.227: Session Type: wayland
+16:46:26.234: Qt Version: 6.7.3 (runtime), 6.7.2 (compiled)
+16:46:26.234: Portable mode: false
+16:46:26.272: OBS 30.2.1-1 (linux)
+16:46:26.272: ---------------------------------
+16:46:26.273: ---------------------------------
+16:46:26.273: audio settings reset:
+16:46:26.273: 	samples per sec: 48000
+16:46:26.273: 	speakers:        2
+16:46:26.273: 	max buffering:   960 milliseconds
+16:46:26.273: 	buffering type:  dynamically increasing
+16:46:26.291: ---------------------------------
+16:46:26.291: Initializing OpenGL...
+16:46:26.291: Using EGL/Wayland
+16:46:26.291: Initialized EGL 1.5
+16:46:26.365: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce GTX 1660 SUPER/PCIe/SSE2
+16:46:26.365: OpenGL loaded successfully, version 3.3.0 NVIDIA 560.35.03, shading language 3.30 NVIDIA via Cg compiler
+16:46:26.402: ---------------------------------
+16:46:26.402: video settings reset:
+16:46:26.402: 	base resolution:   1920x1080
+16:46:26.402: 	output resolution: 1280x720
+16:46:26.402: 	downscale filter:  Bicubic
+16:46:26.402: 	fps:               30/1
+16:46:26.402: 	format:            NV12
+16:46:26.402: 	YUV mode:          Rec. 709/Partial
+16:46:26.402: NV12 texture support enabled
+16:46:26.402: P010 texture support not available
+16:46:26.402: Audio monitoring device:
+16:46:26.402: 	name: Default
+16:46:26.402: 	id: default
+16:46:26.402: ---------------------------------
+16:46:26.414: Failed to load 'en-US' text for module: 'decklink-captions.so'
+16:46:26.429: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+16:46:26.441: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+16:46:26.441: Failed to initialize module 'decklink.so'
+16:46:26.711: [pipewire] Available capture sources:
+16:46:26.711: [pipewire]     - Monitor source
+16:46:26.711: [pipewire]     - Window source
+16:46:27.724: NVENC supported
+16:46:27.725: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+16:46:27.725: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+16:46:27.725: FFmpeg VAAPI H264 encoding not supported
+16:46:27.725: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+16:46:27.725: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+16:46:27.725: FFmpeg VAAPI AV1 encoding not supported
+16:46:27.726: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+16:46:27.726: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+16:46:27.726: FFmpeg VAAPI HEVC encoding not supported
+16:46:28.031: ---------------------------------
+16:46:28.032:   Loaded Modules:
+16:46:28.032:     wlrobs.so
+16:46:28.032:     text-freetype2.so
+16:46:28.032:     rtmp-services.so
+16:46:28.032:     obs-x264.so
+16:46:28.032:     obs-webrtc.so
+16:46:28.032:     obs-vst.so
+16:46:28.032:     obs-transitions.so
+16:46:28.032:     obs-qsv11.so
+16:46:28.032:     obs-outputs.so
+16:46:28.032:     obs-libfdk.so
+16:46:28.032:     obs-filters.so
+16:46:28.032:     obs-ffmpeg.so
+16:46:28.032:     linux-v4l2.so
+16:46:28.032:     linux-pulseaudio.so
+16:46:28.032:     linux-pipewire.so
+16:46:28.032:     linux-jack.so
+16:46:28.032:     linux-capture.so
+16:46:28.032:     linux-alsa.so
+16:46:28.032:     image-source.so
+16:46:28.032:     frontend-tools.so
+16:46:28.032:     decklink-output-ui.so
+16:46:28.032:     decklink-captions.so
+16:46:28.032: ---------------------------------
+16:46:28.032: ---------------------------------
+16:46:28.032: Available Encoders:
+16:46:28.032:   Video Encoders:
+16:46:28.032: 	- ffmpeg_svt_av1 (SVT-AV1)
+16:46:28.032: 	- ffmpeg_aom_av1 (AOM AV1)
+16:46:28.032: 	- jim_nvenc (NVIDIA NVENC H.264)
+16:46:28.032: 	- jim_hevc_nvenc (NVIDIA NVENC HEVC)
+16:46:28.032: 	- jim_av1_nvenc (NVIDIA NVENC AV1)
+16:46:28.032: 	- obs_x264 (x264)
+16:46:28.032:   Audio Encoders:
+16:46:28.032: 	- ffmpeg_aac (FFmpeg AAC)
+16:46:28.032: 	- ffmpeg_opus (FFmpeg Opus)
+16:46:28.032: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+16:46:28.032: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+16:46:28.032: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+16:46:28.032: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+16:46:28.032: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+16:46:28.032: 	- libfdk_aac (libfdk AAC)
+16:46:28.032: ==== Startup complete ===============================================
+16:46:28.086: All scene data cleared
+16:46:28.086: ------------------------------------------------
+16:46:28.092: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.5) 15.0.0'
+16:46:28.092: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+16:46:28.092: pulse-input: Started recording from 'alsa_output.usb-Generic_Blue_Microphones_LT_2347SG006A5862900046_111000-00.analog-stereo.monitor' (default)
+16:46:28.092: [Loaded global audio device]: 'Desktop Audio'
+16:46:28.093: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.5) 15.0.0'
+16:46:28.093: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+16:46:28.093: pulse-input: Started recording from 'alsa_input.usb-Generic_Blue_Microphones_LT_2347SG006A5862900046_111000-00.analog-stereo' (default)
+16:46:28.093: [Loaded global audio device]: 'Mic/Aux'
+16:46:28.093: PipeWire initialized
+16:46:28.094: Switched to scene 'Scene'
+16:46:28.094: ------------------------------------------------
+16:46:28.094: Loaded scenes:
+16:46:28.094: - scene 'Scene':
+16:46:28.094:     - source: 'Screen Capture (PipeWire)' (pipewire-screen-capture-source)
+16:46:28.094: ------------------------------------------------
+16:46:28.123: [pipewire] Screencast session created
+16:46:28.705: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+16:46:28.705: 
+16:46:29.856: [pipewire] Asking for monitor and window
+16:46:29.857: [pipewire] source selected, setting up screencast
+16:46:29.879: [pipewire] Server version: 1.2.5
+16:46:29.879: [pipewire] Library version: 1.2.5
+16:46:29.879: [pipewire] Header version: 1.2.1
+16:46:29.879: [pipewire] Created stream 0x5fd05b445550
+16:46:29.880: [pipewire] Stream 0x5fd05b445550 state: "connecting" (error: none)
+16:46:29.880: [pipewire] Playing stream 0x5fd05b445550
+16:46:29.880: [pipewire] Stream 0x5fd05b445550 state: "paused" (error: none)
+16:46:29.892: [pipewire] Negotiated format:
+16:46:29.892: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:46:29.892: [pipewire]     Modifier: 0x0
+16:46:29.892: [pipewire]     Size: 1920x1080
+16:46:29.892: [pipewire]     Framerate: 0/1
+16:46:29.892: [pipewire] Negotiated format:
+16:46:29.892: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:46:29.892: [pipewire]     Modifier: 0x300000000e08014
+16:46:29.892: [pipewire]     Size: 1920x1080
+16:46:29.892: [pipewire]     Framerate: 0/1
+16:46:29.893: [pipewire] Stream 0x5fd05b445550 state: "streaming" (error: none)
+16:46:35.517: Virtual camera started
+16:46:35.518: ==== Virtual Camera Start ==========================================
+16:46:35.519: Starting Virtual Camera output to Program
+16:46:35.524: Failed to inhibit: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Inhibit” on object at path /org/freedesktop/portal/desktop
